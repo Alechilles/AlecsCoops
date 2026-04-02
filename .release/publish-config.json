@@ -1,0 +1,34 @@
+{
+  "modName": "Alec's Coops!",
+  "repository": "Alechilles/AlecsCoops",
+  "packaging": "zip",
+  "artifactNameTemplate": "Alec's Coops! v{version}.zip",
+  "versionSource": "manifest",
+  "versionFile": "manifest.json",
+  "requiresTameworkDependency": true,
+  "zipIncludes": [
+    "manifest.json",
+    "Server",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "curseforge": {
+    "projectId": "1502528",
+    "releaseType": "release",
+    "gameVersionTypeIds": [65437],
+    "requiredProjects": [
+      { "id": 1447962, "slug": "alecs-tamework", "type": "requiredDependency" },
+      { "id": 1464844, "slug": "alecs-nametags", "type": "optionalDependency" }
+    ]
+  },
+  "modtale": {
+    "projectId": "7595db1f-fd6a-47b4-82d7-65dd4bef44c4",
+    "releaseChannel": "stable",
+    "gameVersions": ["2026.03.26-89796e57b"],
+    "versionFieldName": "versionNumber",
+    "changelogFieldName": "changelog",
+    "channelFieldName": "channel",
+    "gameVersionFieldName": "gameVersions"
+  }
+}
+

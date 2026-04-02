@@ -16,9 +16,14 @@
   "Dependencies": {
     "Alechilles:Alec's Tamework!": "2.7.x"
   },
-  "OptionalDependencies": {},
+  "OptionalDependencies": {
+    "Alechilles:Alec's Nametags!": "1.x"
+  },
   "LoadBefore": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": true,
-  "SubPlugins": []
+  "SubPlugins": [],
+  "UpdateChecker": {
+    "CurseForge": "1502528"
+  }
 }

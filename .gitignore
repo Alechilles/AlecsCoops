@@ -1,5 +1,5 @@
 artifacts/
 target/
 .idea/
-.release/
 *.iml
+*.zip
