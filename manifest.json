@@ -2,7 +2,7 @@
   "Group": "Alechilles",
   "Name": "Alec's Coops!",
   "Version": "0.1.0",
-  "Description": "Moves coop asset overrides out of Alec's Tamework into a standalone companion mod.",
+  "Description": "Upgrades vanilla coops with reliable resident persistence, smoother day/night flow, and improved command-compatible poultry handling.",
   "Authors": [
     {
       "Name": "Alec (Alechilles)",
