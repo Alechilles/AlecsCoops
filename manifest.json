@@ -1,0 +1,24 @@
+{
+  "Group": "Alechilles",
+  "Name": "Alec's Coops!",
+  "Version": "0.1.0",
+  "Description": "Moves coop asset overrides out of Alec's Tamework into a standalone companion mod.",
+  "Authors": [
+    {
+      "Name": "Alec (Alechilles)",
+      "Email": "",
+      "Url": "https://www.curseforge.com/members/alechilles/projects",
+      "Discord": "alechilles"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {
+    "Alechilles:Alec's Tamework!": "2.7.x"
+  },
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
