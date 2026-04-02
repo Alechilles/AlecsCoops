@@ -4,10 +4,11 @@
 
 ## What It Adds
 
+- Mob skins, names, attachments, and more persist through capture/release.
 - More reliable coop residents with stronger persistence behavior.
 - Smoother day/night coop flow (intake and release over time instead of awkward one-time transitions).
 - Better compatibility with command-linked poultry workflows.
-- Better support for mixed coop residents, including additional tame poultry variants.
+- Turkeys can use coops.
 
 ## Requirements
 
