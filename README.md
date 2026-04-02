@@ -1,13 +1,12 @@
 # Alec's Coops!
 
-`Alec's Coops!` upgrades coop gameplay so it feels more consistent, more reliable, and better integrated with command-linked companions.
+Upgrades vanilla coops with reliable persistent metadata, smoother day/night transitions, and improved command-compatible poultry handling.
 
 ## What It Adds
 
 - Mob skins, names, attachments, and more persist through capture/release.
-- More reliable coop residents with stronger persistence behavior.
-- Smoother day/night coop flow (intake and release over time instead of awkward one-time transitions).
-- Better compatibility with command-linked poultry workflows.
+- Smoother day/night coop flow (intake and release over time with visual and sound effects instead of instant transitions).
+- Mobs only spawn in front of the coop so they don't end up on top of coops or outside of pens.
 - Turkeys can use coops.
 
 ## Requirements
