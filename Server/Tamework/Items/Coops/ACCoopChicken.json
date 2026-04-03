@@ -1,6 +1,6 @@
 {
   "Enabled": true,
-  "Priority": 1,
+  "Priority": 2,
   "CoopId": "Coop_Chicken",
   "BlockTypeIds": [
     "Coop_Chicken"
