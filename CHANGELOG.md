@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Added
+- Added a 256x256 in-game icon for the Coops asset pack.
+
 ## 1.0.2 - Update 5 Compatibility + Publishing Metadata - 2026-05-26
 
 - Updated release metadata for Hytale server `0.5.0`, Alec's Tamework `2.11.x`, and manifest version `1.0.2`.
