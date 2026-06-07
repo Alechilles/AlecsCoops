@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.0.3 - Asset Pack Icon - 2026-06-07
 
 ### Added
 - Added a 256x256 in-game icon for the Coops asset pack.
