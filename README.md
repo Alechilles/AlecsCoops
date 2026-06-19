@@ -21,5 +21,5 @@ Upgrades vanilla coops with reliable persistent metadata, smoother day/night tra
 
 ## Requirements
 
-- Required: `Alec's Tamework!` `2.11.x`
+- Required: `Alec's Tamework!` `2.15.x`
 - Optional: `Alec's Nametags!` `1.x`
