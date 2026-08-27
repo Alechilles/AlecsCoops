@@ -1,8 +1,9 @@
 # Changelog
 
-## Unreleased
+## 1.0.5 - Stable 0.6 Compatibility Hotfix - 2026-08-27
 
 ### Changed
+- Expanded declared Hytale Server compatibility to `>=0.5.0 <0.7.0`.
 - Moved the telemetry descriptor to `Server/Telemetry/project.json`, updated it to the current stats descriptor schema, and removed dev endpoint overrides so Alec's Telemetry uses its default hosted endpoint.
 - Documented the Tamework-authoritative managed-coop boundary, legacy-resident reconcile flow, and the intentional parity/differences between vanilla and managed chicken-coop assets.
 - Updated the required Alec's Tamework dependency to `2.16.x` for durable managed-coop lifecycle and import integrity.
