@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.6 - Beacon telemetry descriptor migration - 2026-09-01
+
+### Changed
+
+- Moved the passive telemetry descriptor to Beacon's `Server/Beacon/project.json` contract.
+
 ## 1.0.5 - Stable 0.6 Compatibility Hotfix - 2026-08-27
 
 ### Changed
