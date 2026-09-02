@@ -1,7 +1,7 @@
 {
   "Group": "Alechilles",
   "Name": "Alec's Coops!",
-  "Version": "1.0.4",
+  "Version": "1.0.6",
   "Description": "Upgrades vanilla coops with reliable resident persistence, smoother day/night flow, and improved command-compatible poultry handling.",
   "Authors": [
     {
@@ -12,9 +12,9 @@
     }
   ],
   "Website": "",
-  "ServerVersion": "0.5.x",
+  "ServerVersion": ">=0.5.0 <0.7.0",
   "Dependencies": {
-    "Alechilles:Alec's Tamework!": "2.15.x"
+    "Alechilles:Alec's Tamework!": ">=3.0.0 <4.0.0"
   },
   "OptionalDependencies": {
     "Alechilles:Alec's Nametags!": "1.x"

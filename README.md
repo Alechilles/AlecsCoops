@@ -19,7 +19,15 @@ Upgrades vanilla coops with reliable persistent metadata, smoother day/night tra
 - Mobs only spawn in front of the coop so they don't end up on top of coops or outside of pens.
 - Turkeys can use coops.
 
+## Managed Coop Authority
+
+When this pack's enabled `ACCoopChicken` config matches a chicken coop, Tamework is the sole occupancy, capacity, capture, release, schedule, and produce authority for that block. The vanilla `Coop_Chicken` asset remains useful when Tamework management is unavailable, but Tamework does not mirror a second resident list beside it.
+
+The parallel assets intentionally align capacity (`6`), roaming hours (`6-18`), spawn offset (`0,0,3`), and capture radius (`10`). Managed capture is intentionally enabled in `ACCoopChicken` and disabled in the vanilla fallback because Tamework applies explicit role, identity, tame, and owner admission before committing a resident.
+
+On an established save, use Tamework's `/tw coop reconcile <x> <y> <z>` report before confirming an exact import fingerprint. Exact residents are adopted in place without a replacement spawn; ambiguous evidence stays quarantined for review.
+
 ## Requirements
 
-- Required: `Alec's Tamework!` `2.15.x`
+- Required: `Alec's Tamework!` `2.16.x`
 - Optional: `Alec's Nametags!` `1.x`

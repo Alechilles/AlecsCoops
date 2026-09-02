@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "projectId": "alecs-coops",
+  "displayName": "Alec's Coops!",
+  "telemetry": {
+    "stats": {
+      "supported": true
+    }
+  },
+  "ui": {
+    "iconTexturePath": "AlecsCoops/Telemetry/ConsentIcon.png"
+  },
+  "defaults": {
+    "enabled": true,
+    "destinationMode": "hosted"
+  },
+  "hosted": {
+    "projectKey": "proj_uJBrcyNBdaapDvAs48MxYcjE"
+  }
+}
