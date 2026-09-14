@@ -29,5 +29,5 @@ On an established save, use Tamework's `/tw coop reconcile <x> <y> <z>` report b
 
 ## Requirements
 
-- Required: `Alec's Tamework!` `2.16.x`
+- Required: `Alec's Tamework!` `>=4.0.0 <5.0.0`
 - Optional: `Alec's Nametags!` `1.x`

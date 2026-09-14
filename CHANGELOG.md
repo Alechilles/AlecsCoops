@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.7 - Tamework 4 Compatibility - 2026-09-14
+
+### Changed
+- Updated the required Alec's Tamework dependency to `>=4.0.0 <5.0.0`. Install Tamework 4.0.0 or newer in the 4.x line before updating Coops.
+
 ## 1.0.6 - Beacon telemetry descriptor migration - 2026-09-01
 
 ### Changed
